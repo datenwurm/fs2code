@@ -1,1 +1,1 @@
-# fs2code
+# fs2text
